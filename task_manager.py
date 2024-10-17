@@ -1,6 +1,6 @@
 import json
 
-# Task class definition
+# Task class definition.
 class Task:
     def _init_(self, title, description, completed=False):
         self.title = title  # Title of the task
